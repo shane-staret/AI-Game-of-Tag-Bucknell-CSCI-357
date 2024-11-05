@@ -29,9 +29,10 @@ Below are detailed instructions for building this project yourself. Some softwar
 - You may now run our training environment by entering your python virtual environment and entering the ‘mlagents-learn --force’ command
     - Details about running an ML-Agents environment can be found [here](https://github.com/Unity-Technologies/ml-agents/blob/release_17_docs/docs/Getting-Started.md)
 
-
+<!--
 ## Important Documents
 #### *  [GEA Worksheet](https://gitlab.bucknell.edu/krd008/csci357_finalproject/blob/master/docs/GEA.pdf)
 #### *  [User Manual](https://gitlab.bucknell.edu/krd008/csci357_finalproject/blob/master/docs/User_Manual.pdf)
 #### *  [Medium Article](https://medium.com/@shanestaret/a-game-of-tag-using-ai-90bfd0f10008)
 #### *  [Final Report](https://gitlab.bucknell.edu/krd008/csci357_finalproject/blob/master/docs/CogSci_Final_Research_Paper.pdf)
+-->
