@@ -1,5 +1,4 @@
 #  Team Tag Final Project
-##### Devyn Myers, Shane Staret, Melissa Tjong, & Kevin Doyle
 
 ## Project Description
 #### The primary idea behind this project is to train at least two AI’s through machine learning to play tag against one another. These AI agents will be playing in a finite 3d space containing obstacles. To accomplish this, Unity is being used along with the ML-Agents library included within Unity. This library makes use of Tensorflow to build and train intelligent agent models.
